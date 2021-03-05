@@ -18,12 +18,12 @@ const pretty = require("pretty-ms");
 //////////لاتغير اشي فوق
 var azkarbyshuruhatik = {
   imageembed: "",////لا تغير اشي
-  colorembed: "اسم الون",////لون رساله التذكير
-  channelname: "اسم الروم",//// اسم الروم الي بدك يكون الكلام فيها
-  time: "90000",////وقت الكلام
+  colorembed: "",////لون رساله التذكير
+  channelname: "bots",//// اسم الروم الي بدك يكون الكلام فيها
+  time: "600",////وقت الكلام
 };
 var facts =[
- 'الكلام الي بدك اياه',
+ '/tfollow el8us',
 ] 
 
 
