@@ -26,7 +26,7 @@ var facts =[
  '/tfollow el8us',
 ] 
 
-
+TOKEN = ""
 //////لاتغيير اشي
 setInterval(() => {
   let azkarchannel = shuruhatik.channels.cache.filter(c => c.name.toLowerCase() === azkarbyshuruhatik.channelname).random()
